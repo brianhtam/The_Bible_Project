@@ -16,4 +16,5 @@ To start off, I needed to choose a dataset. There are countless version of the b
 ## Methodologies
 - I used the [Bible Corpus](https://www.kaggle.com/oswinrh/bible)
 - Imported and exported data as SQL tables using d6tstack
-#### Translation_Exploration.ipynb
+#### Translation_EDA.ipynb
+#### 
