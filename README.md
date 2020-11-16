@@ -1,5 +1,7 @@
 # The_Bible_Project
 Watch the full presentation on [Youtube](https://www.youtube.com/watch?v=wm-76yHYsoc&feature=youtu.be)
+My barcharts are published on [Tableau Public](https://public.tableau.com/profile/bgood2me#!/vizhome/Biblebythebooks/BiblebytheBooks?publish=yes)
+You can interact with my scattertext and pyLDAvis visuals on my [Flask App](https://the-bible-app.herokuapp.com/)
 
 ### Metis Project 4: NLP and Unsupervised Learning
 
