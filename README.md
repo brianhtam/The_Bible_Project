@@ -1,4 +1,5 @@
 # The_Bible_Project
+Watch the full presentation on [Youtube](https://www.youtube.com/watch?v=wm-76yHYsoc&feature=youtu.be)
 
 ### Metis Project 4: NLP and Unsupervised Learning
 
@@ -17,4 +18,5 @@ To start off, I needed to choose a dataset. There are countless version of the b
 - I used the [Bible Corpus](https://www.kaggle.com/oswinrh/bible)
 - Imported and exported data as SQL tables using d6tstack
 #### Translation_EDA.ipynb
+
 #### 
