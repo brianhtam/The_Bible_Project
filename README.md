@@ -14,7 +14,7 @@ To start off, I needed to choose a dataset. There are countless version of the b
 - Original Hebrew - Straight from the source but the Hebrew language would be unsupported by spaCy and NLTK.
 - KJV - Version that spread to most of Christianity as we see today, but old English may not work well with modern NLP toolkits
 - NRSV - Scholarly backing behind it and use in Academia 
-- BBE - Ulimately what I proceeded with. Uses the Basic English language restrictions that limit the vocab down to 1000 base words with ~3000 unique pronouns. This causes immense dimensionality reduction for our analysis.
+- **BBE - Ulimately what I proceeded with.** Uses the Basic English language restrictions that limit the vocab down to 1000 base words with ~3000 unique pronouns. This causes immense dimensionality reduction for our analysis.
 
 ## Methodologies
 - I used the [Bible Corpus](https://www.kaggle.com/oswinrh/bible)
